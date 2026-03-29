@@ -18,7 +18,7 @@ Play against another player in the browser with a clean UI and smooth gameplay.
 
 ## 📸 Demo
 
-(Add screenshot here later)
+
 
 ---
 
@@ -26,7 +26,7 @@ Play against another player in the browser with a clean UI and smooth gameplay.
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla JS)
+- JavaScript 
 
 ---
 
